@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+
+.todo-list {
+    margin: 5rem auto;
+    text-align: center;
+    width: 75%;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 4rem;
+}
+
+.bg-add {
+    background-color: #7b5782;
+}
+
+.input-group-text {
+    cursor: pointer;
+}
+
+.icons .icon {
+    padding: .375rem .75rem;
+    display: block;
+    cursor: pointer;
+    background-color: #88d5a7;
+}
